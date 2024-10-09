@@ -10,3 +10,10 @@ Bug report(example):
 9. Severity:
 10. Priority:
 11. Assignee:
+
+Bug report2
+1. Summary:
+2. Description:
+3. Environment:
+4. Precondition:
+5. Steps to Reproduce:
