@@ -17,3 +17,4 @@ Bug report2
 3. Environment:
 4. Precondition:
 5. Steps to Reproduce:
+6. VALLUES
